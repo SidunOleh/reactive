@@ -9,5 +9,5 @@ createEffect(() => {
     countEl.innerHTML = data.count
 })
 
-data.data++
+data.count++
 ```
